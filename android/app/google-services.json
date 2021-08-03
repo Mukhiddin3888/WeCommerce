@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915813927213",
+    "project_id": "wecommerce-4eaa5",
+    "storage_bucket": "wecommerce-4eaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915813927213:android:8bf89381b3c51d7d6b2ba4",
+        "android_client_info": {
+          "package_name": "com.example.we_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915813927213-04q4b2lpdqg3v7n0t462o9kf59bmnpd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelGjsE3WqB6TL7lpYpahZ6HN7QbNom50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915813927213-04q4b2lpdqg3v7n0t462o9kf59bmnpd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
